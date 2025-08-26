@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+*.log
+*.tmp
+
+# archives / backups
+*.zip
+v6-backup*/
+v7-20*/          # any dated v7 snapshots
+
+# big/old trees we don't want in this repo
+v6/
+v6-backup/
+wordpress/
+dist/
+node_modules/
+.env
