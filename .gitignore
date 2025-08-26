@@ -15,3 +15,9 @@ wordpress/
 dist/
 node_modules/
 .env
+
+# extra ignores (safety)
+v7/v7/
+
+# extra ignores (safety)
+v7/v7/
